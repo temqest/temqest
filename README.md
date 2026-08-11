@@ -126,10 +126,10 @@ A growing collection of automated testing projects exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=temqest&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=temqest&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temqest&layout=compact&hide_border=true" height="165"/>
 
 </div>
 

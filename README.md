@@ -126,9 +126,8 @@ A growing collection of automated testing projects exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=temqest&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=temqest&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temqest&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tempest&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempest&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 

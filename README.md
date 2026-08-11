@@ -1,75 +1,90 @@
+<div align="center">
+
 # Hi, I'm Patrick Kurt O. Villamer 👋
 
-### BS-IT Student | QA Automation | AI | Full-Stack Development
+### BS-IT Student · QA Automation · AI-Assisted Development · Full-Stack Engineering
 
-I'm a Bachelor of Science in Information Technology student at **Ateneo de Naga University** with a strong interest in **Quality Assurance, Test Automation, AI-assisted software development, and Full-Stack Engineering**.
+*BS Information Technology student at **Ateneo de Naga University**, focused on Quality Assurance, test automation, AI-assisted software development, and full-stack engineering.*
+*Co-Founder & COO of **UNITE**, a blood bank coordination platform.*
 
-I'm also a **Co-Founder & COO of UNITE**, a blood bank management platform focused on improving coordination across blood donation and healthcare operations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-villamer-15267b36a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-six-rosy.vercel.app/)
+
+</div>
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🧪 Building my skills in **QA Engineering & Test Automation**
+- 🧪 Building depth in **QA Engineering & Test Automation**
 - 🤖 Exploring **AI-assisted testing and software automation**
 - 💻 Developing **full-stack web applications**
-- 🏗️ Learning more about **system design and software architecture**
+- 🏗️ Studying **system design and software architecture**
 - 🩸 Continuing development of **UNITE**, our blood bank management platform
+- 🏥 Finishing my capstone — an **offline-first maternal & child health platform** for rural health units
 
 ---
 
-## 🧪 QA & Automation
+## 🧪 QA & Automation Focus
 
-Currently focusing on:
-
-- Manual & Exploratory Testing
-- Test Case Design
-- API Testing
-- End-to-End Testing
-- Test Automation
-- Regression Testing
-- Bug Reporting
-- CI/CD Testing
-- AI-assisted QA
+| Area | Details |
+|---|---|
+| Testing | Manual & Exploratory, Test Case Design, Regression |
+| API & E2E | API Testing, End-to-End Testing |
+| Automation | Test Automation, AI-assisted QA |
+| Delivery | CI/CD Testing, Bug Reporting |
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-JavaScript • TypeScript • Python • Java
+<div align="center">
 
-### Frontend
-React • Next.js • Vite
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-### Backend
-Node.js • Express.js • REST APIs
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Databases
-MongoDB • PostgreSQL
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Testing
-Playwright • Postman • Jest
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
-Git • GitHub • Docker • Vercel • Render
+**Testing**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏢 Startup Experience
 
-### UNITE — Co-Founder & COO
-
-A blood bank management platform designed to help organizations coordinate:
-
-- Blood donors
-- Blood inventory
-- Donation campaigns
-- Events
+### 🩸 UNITE — Co-Founder & COO
+A blood bank management platform helping organizations coordinate:
+- Blood donors & inventory
+- Donation campaigns & events
 - Organizational coverage
 - Healthcare operations
 
-My experience with UNITE has given me exposure to **product development, system processes, team coordination, software architecture, and translating real-world problems into technical solutions.**
+This has given me hands-on exposure to product development, system processes, team coordination, software architecture, and turning real-world problems into technical solutions.
 
 ---
 
@@ -85,43 +100,48 @@ My experience with UNITE has given me exposure to **product development, system 
 
 ## 📌 Featured Projects
 
-### 🩸 UNITE
+### 🩸 [UNITE](https://dev-portfolio-six-rosy.vercel.app/)
 Blood bank management platform for donor, inventory, campaign, event, and organizational management.
+**Tech:** React · Node.js · Express · MongoDB
 
-**Tech:** React • Node.js • Express • MongoDB
-
-### 🏥 Cloud-Enabled Birth Monitoring System
-A web-based platform designed to support maternal care tracking, delivery monitoring, appointments, and continuous communication for maternity clinics.
-
-**Tech:** React/Next.js • Node.js • MongoDB • Cloud Services
+### 🏥 Offline-First Maternal & Child Health Platform *(Capstone)*
+A web-based platform for LGU/RHU health workers and midwives in Pili, Camarines Sur, built for environments with unreliable connectivity. Includes a **rule-based Clinical Decision Support System** (MEOWS-based, not ML) for early-warning detection, a **patient referral module**, and an **offline sync engine** with MVCC-based conflict resolution for multi-device data entry.
+**Tech:** React/Next.js · Node.js · MongoDB · Offline Sync
 
 ### 🧪 QA Automation Projects
 A growing collection of automated testing projects exploring:
-
-- UI automation
-- API testing
-- End-to-end testing
-- Regression testing
+- UI automation & API testing
+- End-to-end and regression testing
 - AI-assisted test generation
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Test Automation
-- Playwright
-- API & Integration Testing
-- CI/CD
-- System Design
-- AI Automation
-- Software Quality Engineering
+`Advanced Test Automation` `Playwright` `API & Integration Testing` `CI/CD` `System Design` `AI Automation` `Software Quality Engineering`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/patrick-villamer-15267b36a) • [Portfolio](https://dev-portfolio-six-rosy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-villamer-15267b36a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-six-rosy.vercel.app/)
 
 ---
 
-> Building software, learning how to test it, and exploring how AI can make the process better.
+<div align="center">
+<i>Building software, learning how to test it, and exploring how AI can make the process better.</i>
+</div>

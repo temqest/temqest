@@ -120,7 +120,7 @@ A growing collection of automated testing projects exploring:
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](www.linkedin.com/in/patrick-villamer-15267b36a) • [Portfolio](https://dev-portfolio-six-rosy.vercel.app/)
 
 ---
 

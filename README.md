@@ -2,37 +2,35 @@
 
 # Hi, I'm Patrick Kurt O. Villamer 👋
 
-### BS-IT Student · QA Automation · AI-Assisted Development · Full-Stack Engineering
+**BS-IT Student at Ateneo de Naga University · QA Automation · AI-Assisted Development · Full-Stack Engineering**
 
-*BS Information Technology student at **Ateneo de Naga University**, focused on Quality Assurance, test automation, AI-assisted software development, and full-stack engineering.*
-*Co-Founder & COO of **UNITE**, a blood bank coordination platform.*
+Co-Founder & COO of **UNITE**, a blood bank coordination platform.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-villamer-15267b36a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-six-rosy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.pkov.online)
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
-- 🧪 Building depth in **QA Engineering & Test Automation**
-- 🤖 Exploring **AI-assisted testing and software automation**
-- 💻 Developing **full-stack web applications**
-- 🏗️ Studying **system design and software architecture**
-- 🩸 Continuing development of **UNITE**, our blood bank management platform
-- 🏥 Finishing my capstone — an **offline-first maternal & child health platform** for rural health units
+- 🧪 Focused on **QA Engineering & Test Automation** — from manual/exploratory testing to Playwright E2E and API suites
+- 🤖 Exploring **AI-assisted testing & software automation** to ship faster without sacrificing reliability
+- 💻 Building **full-stack web applications** with React, Next.js, Node.js, and TypeScript
+- 🩸 Leading product & operations at **UNITE**, our blood bank management platform
+- 🏥 Wrapping up my capstone: an **offline-first maternal & child health platform** for rural health units
 
 ---
 
 ## 🧪 QA & Automation Focus
 
-| Area | Details |
+| Area | Focus |
 |---|---|
-| Testing | Manual & Exploratory, Test Case Design, Regression |
-| API & E2E | API Testing, End-to-End Testing |
-| Automation | Test Automation, AI-assisted QA |
-| Delivery | CI/CD Testing, Bug Reporting |
+| **Testing** | Manual & Exploratory, Test Case Design, Regression |
+| **API & E2E** | REST API Testing, End-to-End Browser Automation |
+| **Automation** | Playwright, Jest, AI-Assisted QA Workflows |
+| **Delivery** | CI/CD Test Integration, Structured Bug Reporting |
 
 ---
 
@@ -46,20 +44,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frontend**
+**Frontend & Backend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Databases**
+**Databases & Testing**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Testing**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
@@ -75,50 +69,28 @@
 
 ---
 
-## 🏢 Startup Experience
+## 📌 Featured Projects
 
-### 🩸 UNITE — Co-Founder & COO
-A blood bank management platform helping organizations coordinate:
-- Blood donors & inventory
-- Donation campaigns & events
-- Organizational coverage
-- Healthcare operations
+### 🩸 [UNITE](https://portfolio.pkov.online) — *Co-Founder & COO*
+Blood bank management platform helping organizations coordinate donors, inventory, donation campaigns, and healthcare operations.
+**Tech:** `React` · `Node.js` · `Express` · `MongoDB`
 
-This has given me hands-on exposure to product development, system processes, team coordination, software architecture, and turning real-world problems into technical solutions.
+### 🏥 Offline-First Maternal & Child Health Platform — *Capstone*
+Web platform for LGU/RHU health workers and midwives in Pili, Camarines Sur, built for unreliable connectivity. Features a **rule-based Clinical Decision Support System** (MEOWS-based), a **patient referral module**, and an **offline sync engine** with MVCC-based conflict resolution for multi-device data entry.
+**Tech:** `React` · `Next.js` · `Node.js` · `MongoDB` · `Offline Sync`
+
+### 🧪 QA Automation Lab
+Collection of automated testing projects covering UI & API test suites, end-to-end regression flows, and AI-assisted test generation.
+**Tech:** `Playwright` · `Postman` · `Jest`
 
 ---
 
 ## 🏆 Highlights
 
-- 🥇 **1st Place — SparkLAB Hackathon 2025**
+- 🥇 **1st Place** — SparkLAB Hackathon 2025
 - 🚀 **Naga City Idea2Startup**
-- 💡 **IGNITE Incubation Program — Cohort 2**
+- 💡 **IGNITE Incubation Program** — Cohort 2
 - 🎤 **UNITE Demo Day**
-- 👨‍💻 Co-Founder & COO of **UNITE**
-
----
-
-## 📌 Featured Projects
-
-### 🩸 [UNITE](https://dev-portfolio-six-rosy.vercel.app/)
-Blood bank management platform for donor, inventory, campaign, event, and organizational management.
-**Tech:** React · Node.js · Express · MongoDB
-
-### 🏥 Offline-First Maternal & Child Health Platform *(Capstone)*
-A web-based platform for LGU/RHU health workers and midwives in Pili, Camarines Sur, built for environments with unreliable connectivity. Includes a **rule-based Clinical Decision Support System** (MEOWS-based, not ML) for early-warning detection, a **patient referral module**, and an **offline sync engine** with MVCC-based conflict resolution for multi-device data entry.
-**Tech:** React/Next.js · Node.js · MongoDB · Offline Sync
-
-### 🧪 QA Automation Projects
-A growing collection of automated testing projects exploring:
-- UI automation & API testing
-- End-to-end and regression testing
-- AI-assisted test generation
-
----
-
-## 📚 Currently Learning
-
-`Advanced Test Automation` `Playwright` `API & Integration Testing` `CI/CD` `System Design` `AI Automation` `Software Quality Engineering`
 
 ---
 
@@ -133,13 +105,6 @@ A growing collection of automated testing projects exploring:
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-villamer-15267b36a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.pkov.online)
-
----
-
 <div align="center">
-<i>Building software, learning how to test it, and exploring how AI can make the process better.</i>
+<i>Building software, learning how to break it, and exploring how AI can make both better.</i>
 </div>
